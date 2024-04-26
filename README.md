@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshy69
+- 👋 Hi, I’m akshay
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning android development
 
 ![](https://hit.yhype.me/github/profile?user_id=99010755)
 <!---
